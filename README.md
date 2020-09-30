@@ -32,11 +32,21 @@
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/jQuery-logo-min.png?raw=true" width="50" height="50" alt="img-jquery" title="JQuery">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ecma-min.png?raw=true" width="50" height="50" alt="img-ecma" title="Ecmascript 6 and 7">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/node-js-min.png?raw=true" width="50" height="50" alt="img-nodejs" title="Node Js">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/git-min.png?raw=true" width="50" height="50" alt="img-git" title="Git">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/node-js-min.png?raw=true" width="50" height="50" alt="img-nodejs" title="Node Js">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/dart-min.png?raw=true" width="50" height="50" alt="img-dart" title="Dart">
+  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/flutter-min.svg" width="50" height="50" alt="img-flutter" title="Flutter">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/unreal-min.png?raw=true" width="50" height="50" alt="img-unreal" title="Unreal Engine 4">
 </p>
 
 <p align="center">Other knowledge</p>
 
 <p align="center">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/github-min.png?raw=true" width="50" height="50" alt="img-github" title="Github">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bitbucket-min.png?raw=true" width="50" height="50" alt="img-bitbucket" title="Bitbucket">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/wordpress-min.png?raw=true" width="50" height="50" alt="img-wordpress" title="Wordpress">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/odoo-min.svg" width="50" height="50" alt="img-odoo" title="Odoo v11, v12, v13">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/squarespace-min.jpg?raw=true" width="50" height="50" alt="img-ss" title="Square Space">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/adobe-min.jpg?raw=true" width="50" height="50" alt="img-adobe" title="Suite Adobe">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/xd-min.png?raw=true" width="50" height="50" alt="img-xd" title="Adobe Xd">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ai-min.png?raw=true" width="50" height="50" alt="img-ai" title="Adobe Illustrator">
