@@ -21,8 +21,10 @@
 
 <p align="center">My knowledge from highest to lowest</p>
 
-<img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML5">
-<img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/css-min.svg" width="50" height="50" alt="img-css" title="CSS3">
-<img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/sass-min.svg" width="50" height="50" alt="img-sass" title="Sass or Scss">
-<img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/less-logo-min.png?raw=true" width="50" height="50" alt="img-less" title="Less">
-<img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bootstrap-min.png?raw=true" width="50" height="50" alt="img-bootstrap" title="Bootstrap 3 and 4">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML5">
+  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/css-min.svg" width="50" height="50" alt="img-css" title="CSS3">
+  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/sass-min.svg" width="50" height="50" alt="img-sass" title="Sass or Scss">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/less-logo-min.png?raw=true" width="50" height="50" alt="img-less" title="Less">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bootstrap-min.png?raw=true" width="50" height="50" alt="img-bootstrap" title="Bootstrap 3 and 4">
+</p>
