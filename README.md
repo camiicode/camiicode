@@ -19,7 +19,7 @@
 
 <h3 align="center">:computer: I'm David Fernando :tent: Torres Parra :musical_note:</h3>
 
-<p align="center">My knowledge from highest to lowest</p>
+<p align="center">My programming knowledge from low to high</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML5">
@@ -27,4 +27,18 @@
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/sass-min.svg" width="50" height="50" alt="img-sass" title="Sass or Scss">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/less-logo-min.png?raw=true" width="50" height="50" alt="img-less" title="Less">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bootstrap-min.png?raw=true" width="50" height="50" alt="img-bootstrap" title="Bootstrap 3 and 4">
+  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/stylus-min.svg" width="50" height="50" alt="img-stylus" title="Stylus">
+  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/js-min.svg" width="50" height="50" alt="img-javascript" title="Javascript">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/jQuery-logo-min.png?raw=true" width="50" height="50" alt="img-jquery" title="JQuery">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ecma-min.png?raw=true" width="50" height="50" alt="img-ecma" title="Ecmascript 6 and 7">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/node-js-min.png?raw=true" width="50" height="50" alt="img-nodejs" title="Node Js">
+</p>
+
+<p align="center">Other knowledge</p>
+
+<p align="center">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/adobe-min.jpg?raw=true" width="50" height="50" alt="img-adobe" title="Suite Adobe">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/xd-min.png?raw=true" width="50" height="50" alt="img-xd" title="Adobe Xd">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ai-min.png?raw=true" width="50" height="50" alt="img-ai" title="Adobe Illustrator">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/psd-min.png?raw=true" width="50" height="50" alt="img-ps" title="Adobe Photoshop">
 </p>
