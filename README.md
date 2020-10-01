@@ -52,3 +52,19 @@
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ai-min.png?raw=true" width="50" height="50" alt="img-ai" title="Adobe Illustrator">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/psd-min.png?raw=true" width="50" height="50" alt="img-ps" title="Adobe Photoshop">
 </p>
+
+<p style="text-align: justify;">I am a person who loves his job, always advancing in my studies on my own, and showing the world that you don't have to go to a university to be good at something, outside of that I love camping and disconnecting from technology from time to time. when. I love being in contact with nature, meditating and sharing with it.</p>
+
+<p align="center"><b>Follow me<b></p>
+
+<p align="center">
+  <a href="https://twitter.com/CoreDeiv" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/coredeiv-5/assets/img/twitter-logo.webp" width="50" height="50" alt="img-twitter" title="@coreDeiv">
+  </a>
+  <a href="https://codepen.io/coreDeiv" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/coreDeiv/coreDeiv/blob/coredeiv-5/assets/img/codepen-logo.png?raw=true" width="50" height="50" alt="img-codepen" title="@coreDeiv">
+  </a>
+  <a href="https://www.youtube.com/channel/UCDXv8sTnrBtqxpHUj5XibQg" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/coreDeiv/coreDeiv/blob/coredeiv-5/assets/img/youtube-logo.png?raw=true" width="50" height="50" alt="img-youtube" title="Youtube">
+  </a>
+</p>
