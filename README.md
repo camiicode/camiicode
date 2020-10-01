@@ -34,6 +34,7 @@
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/node-js-min.png?raw=true" width="50" height="50" alt="img-nodejs" title="Node Js">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/git-min.png?raw=true" width="50" height="50" alt="img-git" title="Git">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/dart-min.png?raw=true" width="50" height="50" alt="img-dart" title="Dart">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/coredeiv/assets/img/Kotlin-logo.png?raw=true" width="50" height="50" alt="img-kotlin" title="Kotlin">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/flutter-min.svg" width="50" height="50" alt="img-flutter" title="Flutter">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/unreal-min.png?raw=true" width="50" height="50" alt="img-unreal" title="Unreal Engine 4">
 </p>
