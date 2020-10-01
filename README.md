@@ -58,5 +58,13 @@
 <p align="center"><b>Follow me<b></p>
 
 <p align="center">
-  <!-- Aqui va algo -->
+  <a href="https://twitter.com/CoreDeiv" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/coredeiv-5/assets/img/twitter-logo.webp" width="50" height="50" alt="img-twitter" title="@coreDeiv">
+  </a>
+  <a href="https://codepen.io/coreDeiv" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/coreDeiv/coreDeiv/blob/coredeiv-5/assets/img/codepen-logo.png?raw=true" width="50" height="50" alt="img-codepen" title="@coreDeiv">
+  </a>
+  <a href="https://www.youtube.com/channel/UCDXv8sTnrBtqxpHUj5XibQg" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/coreDeiv/coreDeiv/blob/coredeiv-5/assets/img/youtube-logo.png?raw=true" width="50" height="50" alt="img-youtube" title="Youtube">
+  </a>
 </p>
