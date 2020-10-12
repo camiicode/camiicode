@@ -19,7 +19,7 @@
 
 <h3 align="center">:computer: I'm David Fernando :tent: Torres Parra :musical_note:</h3>
 
-<p align="center">My programming knowledge from low to high</p>
+<p align="center">My programming knowledge from high to low</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML5">
