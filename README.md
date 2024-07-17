@@ -4,22 +4,22 @@
   </a>
 </p>
 
-<h3 align="center">coreDeiv</h3>
+<h3 align="center">CAMICODE</h3>
 
 <p align="center">
-  Curious, energetic, open minded, Scout, Designer and Programmer
+  Curiosa, energetica, de mente abierta, Voluntaria, Diseñadora y Desarrolladora
   <br>
-  <a href="https://coredeiv.github.io/portfolio/"><strong>Visit my portfolio »</strong></a>
+  <a href="https://coredeiv.github.io/portfolio/"><strong>Visita mi Portafolio »</strong></a>
   <br>
   <br>
-  <a href="https://api.whatsapp.com/send?phone=573052272289&amp;text=Hi!,%20how%20are%20you%20?">Write me</a>
+  <a href="https://api.whatsapp.com/send?phone=573052272289&amp;text=Hi!,%20how%20are%20you%20?">No seas timid@, escribeme</a>
   ·
-  <a href="mailto:dftp93@gmail.com">Send me an email</a>
+  <a href="mailto:dftp93@gmail.com">O enviame un eMail</a>
 </p>
 
-<h3 align="center">:computer: I'm David Fernando :tent: Torres Parra :musical_note:</h3>
+<h3 align="center">:computer: Soy Camila Fernanda :tent: Torres Parra :musical_note:</h3>
 
-<p align="center">My programming knowledge from high to low</p>
+<p align="center">Mis conocimientos de Diseño y Desarrollo Web (Me falta agregar los de Marketing Digital)</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML5">
@@ -39,7 +39,7 @@
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/unreal-min.png?raw=true" width="50" height="50" alt="img-unreal" title="Unreal Engine 4">
 </p>
 
-<p align="center">Other knowledge</p>
+<p align="center">Otros conocimientos</p>
 
 <p align="center">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/github-min.png?raw=true" width="50" height="50" alt="img-github" title="Github">
@@ -53,18 +53,17 @@
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/psd-min.png?raw=true" width="50" height="50" alt="img-ps" title="Adobe Photoshop">
 </p>
 
-<p style="text-align: justify;">I am a person who loves his job, always advancing in my studies on my own, and showing the world that you don't have to go to a university to be good at something, outside of that I love camping and disconnecting from technology from time to time. when. I love being in contact with nature, meditating and sharing with it.</p>
+<p style="text-align: justify;">Consultora de Integracion en Odoo, diseño y marketing digital. Me apasiona el desarrollo web. En crecimiento personal, mi transición de género enriquece mi perspectiva y fortalece mi profesionalismo.</p>
 
-<p align="center"><b>Follow me<b></p>
+<p align="center"><b>No tengo muchas redes que digamos, pero algo es algo<b></p>
 
 <p align="center">
-  <a href="https://twitter.com/CoreDeiv" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/coredeiv-5/assets/img/twitter-logo.webp" width="50" height="50" alt="img-twitter" title="@coreDeiv">
-  </a>
-  <a href="https://codepen.io/coreDeiv" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/coreDeiv/coreDeiv/blob/coredeiv-5/assets/img/codepen-logo.png?raw=true" width="50" height="50" alt="img-codepen" title="@coreDeiv">
-  </a>
-  <a href="https://www.youtube.com/channel/UCDXv8sTnrBtqxpHUj5XibQg" target="_blank" style="text-decoration: none;">
+  <a href="https://www.youtube.com/@missanddiie" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/youtube-logo.png?raw=true" width="50" height="50" alt="img-youtube" title="Youtube">
+  </a>
+  <a href="https://www.linkedin.com/in/camila-fernanda-torres-parra-4106bb220/" target="_blank" style="text-decoration: none;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
+    </svg>
   </a>
 </p>
