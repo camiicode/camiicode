@@ -11,7 +11,7 @@
   <a href="mailto:dftp93@gmail.com">O enviame un eMail</a>
 </p>
 
-<h3 align="center">:computer: Soy Camila Fernanda Torres Parra, una mujer transgénero apasionada por el aprendizaje continuo y la excelencia profesional. Mi transición, además de ser una expresión auténtica de quién soy, ha sido un motor transformador en mi carrera. Ser una mujer transgénero me ha permitido desarrollar habilidades únicas como la empatía, la resiliencia y la adaptabilidad, cualidades que aplico diariamente en mi trabajo. Esta perspectiva me ha hecho más receptiva a las necesidades de los demás, más abierta al cambio y más determinada a enfrentar retos con creatividad y determinación. :musical_note:</h3>
+<h3 align="center">:computer: Soy Camila Fernanda Torres Parra, una mujer transgénero apasionada por el aprendizaje continuo y la excelencia profesional con 6 años de experiencia Laboral en Desarrollo web Frontend, Diseño Web, Diseño Gafico, Creacion de contenido META, Digital Marketer, Web Layouter. Mi transición, además de ser una expresión auténtica de quién soy, ha sido un motor transformador en mi carrera. Ser una mujer transgénero me ha permitido desarrollar habilidades únicas como la empatía, la resiliencia y la adaptabilidad, cualidades que aplico diariamente en mi trabajo. Esta perspectiva me ha hecho más receptiva a las necesidades de los demás, más abierta al cambio y más determinada a enfrentar retos con creatividad y determinación. :musical_note:</h3>
 
 <p align="center">Conoce mis habilidades en Desarrollo Web Frontend</p>
 
@@ -24,7 +24,6 @@
   <img src="/assets/img/twig.jpg" width="50" height="50" alt="img-twig" title="twig">
   <img src="/assets/img/pug.png" width="50" height="50" alt="img-pug" title="pug">
 </p>
-
 
 <p align="center">
   <img src="/assets/img/css.svg" width="50" height="50" alt="img-css" title="CSS">
@@ -45,6 +44,44 @@
   <img src="/assets/img/ecma-min.png" width="50" height="50" alt="img-ecmascript" title="ecmascript">
   <img src="/assets/img/node-js-min.png" width="50" height="50" alt="img-nodejs" title="nodejs">
   <img src="/assets/img/typescript.png" width="50" height="50" alt="img-typescript" title="typescript">
+</p>
+
+<p align="center">
+  <img src="/assets/img/git-min.png" width="50" height="50" alt="img-git" title="git">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/assets/img/github-min.png" width="50" height="50" alt="img-github" title="github">
+  <img src="/assets/img/gitlab.png" width="50" height="50" alt="img-gitlab" title="gitlab">
+  <img src="/assets/img/bitbucket-min.png" width="50" height="50" alt="img-bitbucket" title="bitbucket">
+  <img src="/assets/img/jira.svg" width="50" height="50" alt="img-jira" title="jira">
+</p>
+
+<p align="center">
+  <img src="/assets/img/seo.jpg" width="50" height="50" alt="img-seo" title="seo">
+  <img src="/assets/img/wordpress-min.png" width="50" height="50" alt="img-wordpress" title="wordpress">
+  <img src="/assets/img/october-cms.png" width="50" height="50" alt="img-october-cms" title="october-cms">
+  <img src="/assets/img/docker.png" width="50" height="50" alt="img-docker" title="docker">
+  <img src="/assets/img/laragon.jpg" width="50" height="50" alt="img-laragon" title="laragon">
+  <img src="/assets/img/odoo.webp" width="50" height="50" alt="img-odoo" title="odoo">
+  <img src="/assets/img/prestashop.svg" width="50" height="50" alt="img-prestashop" title="prestashop">
+  <img src="/assets/img/shopify.png" width="50" height="50" alt="img-shopify" title="shopify">
+  <img src="/assets/img/wix.png" width="50" height="50" alt="img-wix" title="wix">
+  <img src="/assets/img/seo.jpg" width="50" height="50" alt="img-Search-engine-optimization" title="Search-engine-optimization">
+  <img src="/assets/img/google-cloud.webp" width="50" height="50" alt="img-google-cloud" title="google-cloud">
+  <img src="/assets/img/google-lighthouse.png" width="50" height="50" alt="img-google-lighthouse" title="google-lighthouse">
+</p>
+
+<p align="center">Conoce mis habilidades en Diseño Web y Diseño Grafico</p>
+
+<p align="center">
+  <img src="/assets/img/adobe-min.jpg" width="50" height="50" alt="img-Adobe-Suite" title="Adobe-Suite">
+  <img src="/assets/img/ai-min.png" width="50" height="50" alt="img-Adobe-Illustrator" title="Adobe-Illustrator">
+  <img src="/assets/img/psd-min.png" width="50" height="50" alt="img-Adobe-Photoshop" title="Adobe-Photoshop">
+  <img src="/assets/img/xd-min.png" width="50" height="50" alt="img-Adobe-Xd" title="Adobe-Xd">
+  <img src="/assets/img/figma.png" width="50" height="50" alt="img-Figma" title="Figma">
+  <img src="/assets/img/photopea.png" width="50" height="50" alt="img-Photopea" title="Photopea">
+  <img src="/assets/img/sketch.png" width="50" height="50" alt="img-Sketch" title="Sketch">
+  <img src="/assets/img/canva.png" width="50" height="50" alt="img-Canva" title="Canva">
+  <img src="/assets/img/webflow.webp" width="50" height="50" alt="img-Webflow" title="Webflow">
 </p>
 
 <p align="center">Otros conocimientos</p>
