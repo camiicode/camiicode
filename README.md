@@ -61,11 +61,11 @@
   <img src="/assets/img/october-cms.png" width="50" height="50" alt="img-october-cms" title="october-cms">
   <img src="/assets/img/docker.png" width="50" height="50" alt="img-docker" title="docker">
   <img src="/assets/img/laragon.jpg" width="50" height="50" alt="img-laragon" title="laragon">
+  <img src="/assets/img/squarespace-min.jpg" width="50" height="50" alt="img-squarespace" title="squarespace">
   <img src="/assets/img/odoo.webp" width="50" height="50" alt="img-odoo" title="odoo">
   <img src="/assets/img/prestashop.svg" width="50" height="50" alt="img-prestashop" title="prestashop">
   <img src="/assets/img/shopify.png" width="50" height="50" alt="img-shopify" title="shopify">
   <img src="/assets/img/wix.png" width="50" height="50" alt="img-wix" title="wix">
-  <img src="/assets/img/seo.jpg" width="50" height="50" alt="img-Search-engine-optimization" title="Search-engine-optimization">
   <img src="/assets/img/google-cloud.webp" width="50" height="50" alt="img-google-cloud" title="google-cloud">
   <img src="/assets/img/google-lighthouse.png" width="50" height="50" alt="img-google-lighthouse" title="google-lighthouse">
 </p>
@@ -84,31 +84,44 @@
   <img src="/assets/img/webflow.webp" width="50" height="50" alt="img-Webflow" title="Webflow">
 </p>
 
-<p align="center">Otros conocimientos</p>
+<p align="center">Conoce mis habilidades en Marketing Digital y Content Creator</p>
 
 <p align="center">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/github-min.png?raw=true" width="50" height="50" alt="img-github" title="Github">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bitbucket-min.png?raw=true" width="50" height="50" alt="img-bitbucket" title="Bitbucket">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/wordpress-min.png?raw=true" width="50" height="50" alt="img-wordpress" title="Wordpress">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/odoo-min.svg" width="50" height="50" alt="img-odoo" title="Odoo v11, v12, v13">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/squarespace-min.jpg?raw=true" width="50" height="50" alt="img-ss" title="Square Space">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/adobe-min.jpg?raw=true" width="50" height="50" alt="img-adobe" title="Suite Adobe">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/xd-min.png?raw=true" width="50" height="50" alt="img-xd" title="Adobe Xd">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ai-min.png?raw=true" width="50" height="50" alt="img-ai" title="Adobe Illustrator">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/psd-min.png?raw=true" width="50" height="50" alt="img-ps" title="Adobe Photoshop">
+  <img src="/assets/img/adobe-min.jpg" width="50" height="50" alt="img-Adobe-Suite" title="Adobe-Suite">
+  <img src="/assets/img/ai-min.png" width="50" height="50" alt="img-Adobe-Illustrator" title="Adobe-Illustrator">
+  <img src="/assets/img/psd-min.png" width="50" height="50" alt="img-Adobe-Photoshop" title="Adobe-Photoshop">
+  <img src="/assets/img/figma.png" width="50" height="50" alt="img-Figma" title="Figma">
+  <img src="/assets/img/photopea.png" width="50" height="50" alt="img-Photopea" title="Photopea">
+  <img src="/assets/img/canva.png" width="50" height="50" alt="img-Canva" title="Canva">
+  <img src="/assets/img/seo.jpg" width="50" height="50" alt="img-Search-engine-optimization" title="Search-engine-optimization">
+  <img src="/assets/img/SEM.jpg" width="50" height="50" alt="img-Search-engine-marketing" title="Search-engine-marketing">
+  <img src="/assets/img/analytics.webp" width="50" height="50" alt="img-Google-analytics" title="Google-analytics">
+  <img src="/assets/img/google-trends.jpg" width="50" height="50" alt="img-Google-trends" title="Google-trends">
+  <img src="/assets/img/gramarly.png" width="50" height="50" alt="img-grammarly" title="grammarly">
+  <img src="/assets/img/mailchimp-logo.webp" width="50" height="50" alt="img-mailchimp" title="mailchimp">
+  <img src="/assets/img/meta.png" width="50" height="50" alt="img-meta" title="meta">
+  <img src="/assets/img/semrush.png" width="50" height="50" alt="img-semrush" title="semrush">
+  <img src="/assets/img/trello.png" width="50" height="50" alt="img-trello" title="trello">
+  <img src="/assets/img/capcut.jpg" width="50" height="50" alt="img-capcut" title="capcut">
+  <img src="/assets/img/filmora.png" width="50" height="50" alt="img-filmora-wondershare" title="filmora-wondershare">
 </p>
 
-<p style="text-align: justify;">Consultora de Integracion en Odoo, diseño y marketing digital. Me apasiona el desarrollo web. En crecimiento personal, mi transición de género enriquece mi perspectiva y fortalece mi profesionalismo.</p>
-
-<p align="center"><b>No tengo muchas redes que digamos, pero algo es algo<b></p>
+<p align="center"><b>No soy asocial, soy selectiva<b></p>
 
 <p align="center">
   <a href="https://www.youtube.com/@missanddiie" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/youtube-logo.png?raw=true" width="50" height="50" alt="img-youtube" title="Youtube">
+    <img src="/assets/img/youtube-logo.png" width="50" height="50" alt="img-youtube" title="Youtube">
   </a>
   <a href="https://www.linkedin.com/in/camila-fernanda-torres-parra-4106bb220/" target="_blank" style="text-decoration: none;">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
-      <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
-    </svg>
+    <img src="/assets/img/linkedin.png" width="50" height="50" alt="img-linkedin" title="linkedin">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61564658317861" target="_blank" style="text-decoration: none;">
+    <img src="/assets/img/facebook.webp" width="50" height="50" alt="img-facebook" title="facebook">
+  </a>
+  <a href="https://github.com/camiicode" target="_blank" style="text-decoration: none;">
+    <img src="/assets/img/github-min.png" width="50" height="50" alt="img-github" title="github">
+  </a>
+  <a href="https://codepen.io/camiicode" target="_blank" style="text-decoration: none;">
+    <img src="/assets/img/codepen-logo.png" width="50" height="50" alt="img-codepen" title="codepen">
   </a>
 </p>
