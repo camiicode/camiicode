@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/coreDeiv">
-    <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/logo/logo.png?raw=true" alt="Bootstrap logo" width="100" height="100">
-  </a>
-</p>
-
-<h3 align="center">CAMICODE</h3>
+<h3 align="center">CAMIICODE</h3>
 
 <p align="center">
   Curiosa, energetica, de mente abierta, Voluntaria, Diseñadora y Desarrolladora
