@@ -15,9 +15,9 @@
 
 <p align="center">Conoce mis habilidades en Desarrollo Web Frontend</p>
 
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="/assets/img/html.png" width="50" height="50" alt="img-html" title="HTML">
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span style="font-size: 24px; line-height: 1;">|</span>
   <img src="/assets/img/xhtml.jpg" width="50" height="50" alt="img-xhtml" title="xhtml">
   <img src="/assets/img/xml.png" width="50" height="50" alt="img-xml" title="xml">
   <img src="/assets/img/htm.png" width="50" height="50" alt="img-htm" title="htm">
