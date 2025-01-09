@@ -46,18 +46,6 @@
   <img src="/assets/img/typescript.png" width="50" height="50" alt="img-typescript" title="typescript">
 </p>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML">
-  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/css-min.svg" width="50" height="50" alt="img-css" title="CSS3">
-  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/sass-min.svg" width="50" height="50" alt="img-sass" title="SASS or SCSS">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bootstrap-min.png?raw=true" width="50" height="50" alt="img-bootstrap" title="Bootstrap From V3.3 to V5.3">
-  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/js-min.svg" width="50" height="50" alt="img-javascript" title="Javascript">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/jQuery-logo-min.png?raw=true" width="50" height="50" alt="img-jquery" title="JQuery">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ecma-min.png?raw=true" width="50" height="50" alt="img-ecma" title="Ecmascript 15">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/node-js-min.png?raw=true" width="50" height="50" alt="img-nodejs" title="NodeJS">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/git-min.png?raw=true" width="50" height="50" alt="img-git" title="Git">
-</p> -->
-
 <p align="center">Otros conocimientos</p>
 
 <p align="center">
