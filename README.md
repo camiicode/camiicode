@@ -13,24 +13,18 @@
 
 <h3 align="center">:computer: Soy Camila Fernanda Torres Parra, una mujer transgénero apasionada por el aprendizaje continuo y la excelencia profesional. Mi transición, además de ser una expresión auténtica de quién soy, ha sido un motor transformador en mi carrera. Ser una mujer transgénero me ha permitido desarrollar habilidades únicas como la empatía, la resiliencia y la adaptabilidad, cualidades que aplico diariamente en mi trabajo. Esta perspectiva me ha hecho más receptiva a las necesidades de los demás, más abierta al cambio y más determinada a enfrentar retos con creatividad y determinación. :musical_note:</h3>
 
-<p align="center">Mis conocimientos de Diseño y Desarrollo Web (Me falta agregar los de Marketing Digital)</p>
+<p align="center">Conoce mis habilidades en Desarrollo Web</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML5">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/css-min.svg" width="50" height="50" alt="img-css" title="CSS3">
-  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/sass-min.svg" width="50" height="50" alt="img-sass" title="Sass or Scss">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/less-logo-min.png?raw=true" width="50" height="50" alt="img-less" title="Less">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bootstrap-min.png?raw=true" width="50" height="50" alt="img-bootstrap" title="Bootstrap 3 and 4">
-  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/stylus-min.svg" width="50" height="50" alt="img-stylus" title="Stylus">
+  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/sass-min.svg" width="50" height="50" alt="img-sass" title="SASS or SCSS">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bootstrap-min.png?raw=true" width="50" height="50" alt="img-bootstrap" title="Bootstrap From V3.3 to V5.3">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/js-min.svg" width="50" height="50" alt="img-javascript" title="Javascript">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/jQuery-logo-min.png?raw=true" width="50" height="50" alt="img-jquery" title="JQuery">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ecma-min.png?raw=true" width="50" height="50" alt="img-ecma" title="Ecmascript 6 and 7">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/node-js-min.png?raw=true" width="50" height="50" alt="img-nodejs" title="Node Js">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ecma-min.png?raw=true" width="50" height="50" alt="img-ecma" title="Ecmascript 15">
+  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/node-js-min.png?raw=true" width="50" height="50" alt="img-nodejs" title="NodeJS">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/git-min.png?raw=true" width="50" height="50" alt="img-git" title="Git">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/dart-min.png?raw=true" width="50" height="50" alt="img-dart" title="Dart">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/coredeiv/assets/img/Kotlin-logo.png?raw=true" width="50" height="50" alt="img-kotlin" title="Kotlin">
-  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/flutter-min.svg" width="50" height="50" alt="img-flutter" title="Flutter">
-  <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/unreal-min.png?raw=true" width="50" height="50" alt="img-unreal" title="Unreal Engine 4">
 </p>
 
 <p align="center">Otros conocimientos</p>
