@@ -6,17 +6,48 @@
   <a href="https://camiicode.github.io/portfolio/"><strong>Visita mi Portafolio »</strong></a>
   <br>
   <br>
-  <a href="https://api.whatsapp.com/send?phone=573052272289&amp;text=Hi!,%20how%20are%20you%20?">No seas timid@, escribeme</a>
+  <a href="https://wa.link/912dj8">No seas timid@, escribeme</a>
   ·
   <a href="mailto:dftp93@gmail.com">O enviame un eMail</a>
 </p>
 
 <h3 align="center">:computer: Soy Camila Fernanda Torres Parra, una mujer transgénero apasionada por el aprendizaje continuo y la excelencia profesional. Mi transición, además de ser una expresión auténtica de quién soy, ha sido un motor transformador en mi carrera. Ser una mujer transgénero me ha permitido desarrollar habilidades únicas como la empatía, la resiliencia y la adaptabilidad, cualidades que aplico diariamente en mi trabajo. Esta perspectiva me ha hecho más receptiva a las necesidades de los demás, más abierta al cambio y más determinada a enfrentar retos con creatividad y determinación. :musical_note:</h3>
 
-<p align="center">Conoce mis habilidades en Desarrollo Web</p>
+<p align="center">Conoce mis habilidades en Desarrollo Web Frontend</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML5">
+  <img src="/assets/img/html.png" width="50" height="50" alt="img-html" title="HTML">
+  <span class="divider" style="display: block; width: 2px; height: 100%; line-height: 1rem; font-size: 1rem; margin: 0 1rem;"></span>
+  <img src="/assets/img/xhtml.jpg" width="50" height="50" alt="img-xhtml" title="xhtml">
+  <img src="/assets/img/xml.png" width="50" height="50" alt="img-xml" title="xml">
+  <img src="/assets/img/htm.png" width="50" height="50" alt="img-htm" title="htm">
+  <img src="/assets/img/twig.jpg" width="50" height="50" alt="img-twig" title="twig">
+  <img src="/assets/img/pug.png" width="50" height="50" alt="img-pug" title="pug">
+</p>
+
+<p align="center">
+  <img src="/assets/img/css.svg" width="50" height="50" alt="img-css" title="CSS">
+  <span class="divider" style="display: block; width: 2px; height: 100%; line-height: 1rem; font-size: 1rem; margin: 0 1rem;"></span>
+  <img src="/assets/img/bootstrap-min.png" width="50" height="50" alt="img-bootstrap" title="bootstrap">
+  <img src="/assets/img/tailwindcss.png" width="50" height="50" alt="img-tailwind-css" title="tailwind-css">
+  <img src="/assets/img/skeletoncss.png" width="50" height="50" alt="img-skeleton-css" title="skeleton-css">
+  <img src="/assets/img/mdb.png" width="50" height="50" alt="img-material-design-for-bootstrap" title="material-design-for-bootstrap">
+  <img src="/assets/img/material-design.png" width="50" height="50" alt="img-material-design" title="material-design">
+  <img src="/assets/img/sass-min.svg" width="50" height="50" alt="img-sass-scss" title="sass-scss">
+  <img src="/assets/img/postcss.png" width="50" height="50" alt="img-postcss" title="postcss">
+</p>
+
+<p align="center">
+  <img src="/assets/img/js.svg" width="50" height="50" alt="img-javascript" title="Javascript">
+  <span class="divider" style="display: block; width: 2px; height: 100%; line-height: 1rem; font-size: 1rem; margin: 0 1rem;"></span>
+  <img src="/assets/img/jQuery-logo-min.png" width="50" height="50" alt="img-jquery" title="jquery">
+  <img src="/assets/img/ecma-min.png" width="50" height="50" alt="img-ecmascript" title="ecmascript">
+  <img src="/assets/img/node-js-min.png" width="50" height="50" alt="img-nodejs" title="nodejs">
+  <img src="/assets/img/typescript.png" width="50" height="50" alt="img-typescript" title="typescript">
+</p>
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/html-min.svg" width="50" height="50" alt="img-html" title="HTML">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/css-min.svg" width="50" height="50" alt="img-css" title="CSS3">
   <img src="https://raw.githubusercontent.com/coreDeiv/coreDeiv/add622f8923e7d9e3d8ec76c977d6c0a4acf9874/assets/img/sass-min.svg" width="50" height="50" alt="img-sass" title="SASS or SCSS">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/bootstrap-min.png?raw=true" width="50" height="50" alt="img-bootstrap" title="Bootstrap From V3.3 to V5.3">
@@ -25,7 +56,7 @@
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/ecma-min.png?raw=true" width="50" height="50" alt="img-ecma" title="Ecmascript 15">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/node-js-min.png?raw=true" width="50" height="50" alt="img-nodejs" title="NodeJS">
   <img src="https://github.com/coreDeiv/coreDeiv/blob/master/assets/img/git-min.png?raw=true" width="50" height="50" alt="img-git" title="Git">
-</p>
+</p> -->
 
 <p align="center">Otros conocimientos</p>
 
