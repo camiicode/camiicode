@@ -15,15 +15,16 @@
 
 <p align="center">Conoce mis habilidades en Desarrollo Web Frontend</p>
 
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<p align="center">
   <img src="/assets/img/html.png" width="50" height="50" alt="img-html" title="HTML">
-  <span style="font-size: 24px; line-height: 1;">|</span>
+  <sub>|</sub>
   <img src="/assets/img/xhtml.jpg" width="50" height="50" alt="img-xhtml" title="xhtml">
   <img src="/assets/img/xml.png" width="50" height="50" alt="img-xml" title="xml">
   <img src="/assets/img/htm.png" width="50" height="50" alt="img-htm" title="htm">
   <img src="/assets/img/twig.jpg" width="50" height="50" alt="img-twig" title="twig">
   <img src="/assets/img/pug.png" width="50" height="50" alt="img-pug" title="pug">
 </p>
+
 
 <p align="center">
   <img src="/assets/img/css.svg" width="50" height="50" alt="img-css" title="CSS">
