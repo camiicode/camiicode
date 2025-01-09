@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="/assets/img/html.png" width="50" height="50" alt="img-html" title="HTML">
-  <sub>|</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/assets/img/xhtml.jpg" width="50" height="50" alt="img-xhtml" title="xhtml">
   <img src="/assets/img/xml.png" width="50" height="50" alt="img-xml" title="xml">
   <img src="/assets/img/htm.png" width="50" height="50" alt="img-htm" title="htm">
@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="/assets/img/css.svg" width="50" height="50" alt="img-css" title="CSS">
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/assets/img/bootstrap-min.png" width="50" height="50" alt="img-bootstrap" title="bootstrap">
   <img src="/assets/img/tailwindcss.png" width="50" height="50" alt="img-tailwind-css" title="tailwind-css">
   <img src="/assets/img/skeletoncss.png" width="50" height="50" alt="img-skeleton-css" title="skeleton-css">
@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="/assets/img/js.svg" width="50" height="50" alt="img-javascript" title="Javascript">
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/assets/img/jQuery-logo-min.png" width="50" height="50" alt="img-jquery" title="jquery">
   <img src="/assets/img/ecma-min.png" width="50" height="50" alt="img-ecmascript" title="ecmascript">
   <img src="/assets/img/node-js-min.png" width="50" height="50" alt="img-nodejs" title="nodejs">
