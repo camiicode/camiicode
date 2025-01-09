@@ -13,17 +13,23 @@
 
 <h3 align="center">:computer: Soy Camila Fernanda Torres Parra, una mujer transgénero apasionada por el aprendizaje continuo y la excelencia profesional con 6 años de experiencia Laboral en Desarrollo web Frontend, Diseño Web, Diseño Gafico, Creacion de contenido META, Digital Marketer, Web Layouter. Mi transición, además de ser una expresión auténtica de quién soy, ha sido un motor transformador en mi carrera. Ser una mujer transgénero me ha permitido desarrollar habilidades únicas como la empatía, la resiliencia y la adaptabilidad, cualidades que aplico diariamente en mi trabajo. Esta perspectiva me ha hecho más receptiva a las necesidades de los demás, más abierta al cambio y más determinada a enfrentar retos con creatividad y determinación. :musical_note:</h3>
 
-<p align="center">Conoce mis habilidades en Desarrollo Web Frontend</p>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <p align="center">Conoce mis habilidades en Desarrollo Web Frontend</p>
 
-<p align="center">
-  <img src="/assets/img/html.png" width="50" height="50" alt="img-html" title="HTML">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/assets/img/xhtml.jpg" width="50" height="50" alt="img-xhtml" title="xhtml">
-  <img src="/assets/img/xml.png" width="50" height="50" alt="img-xml" title="xml">
-  <img src="/assets/img/htm.png" width="50" height="50" alt="img-htm" title="htm">
-  <img src="/assets/img/twig.jpg" width="50" height="50" alt="img-twig" title="twig">
-  <img src="/assets/img/pug.png" width="50" height="50" alt="img-pug" title="pug">
-</p>
+      <p align="center">
+        <img src="/assets/img/html.png" width="50" height="50" alt="img-html" title="HTML">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="/assets/img/xhtml.jpg" width="50" height="50" alt="img-xhtml" title="xhtml">
+        <img src="/assets/img/xml.png" width="50" height="50" alt="img-xml" title="xml">
+        <img src="/assets/img/htm.png" width="50" height="50" alt="img-htm" title="htm">
+        <img src="/assets/img/twig.jpg" width="50" height="50" alt="img-twig" title="twig">
+        <img src="/assets/img/pug.png" width="50" height="50" alt="img-pug" title="pug">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="/assets/img/css.svg" width="50" height="50" alt="img-css" title="CSS">
