@@ -1,9 +1,9 @@
 <h3 align="center">CAMIICODE</h3>
 
 <p align="center">
-  Curiosa, energetica, de mente abierta, Voluntaria, Diseñadora y Desarrolladora
+  Experta en Odoo, diseño y marketing digital. Me apasiona el desarrollo web. En crecimiento personal, mi transición de género enriquece mi perspectiva y fortalece mi profesionalismo.
   <br>
-  <a href="https://coredeiv.github.io/portfolio/"><strong>Visita mi Portafolio »</strong></a>
+  <a href="https://camiicode.github.io/portfolio/"><strong>Visita mi Portafolio »</strong></a>
   <br>
   <br>
   <a href="https://api.whatsapp.com/send?phone=573052272289&amp;text=Hi!,%20how%20are%20you%20?">No seas timid@, escribeme</a>
@@ -11,7 +11,7 @@
   <a href="mailto:dftp93@gmail.com">O enviame un eMail</a>
 </p>
 
-<h3 align="center">:computer: Soy Camila Fernanda :tent: Torres Parra :musical_note:</h3>
+<h3 align="center">:computer: Soy Camila Fernanda Torres Parra, una mujer transgénero apasionada por el aprendizaje continuo y la excelencia profesional. Mi transición, además de ser una expresión auténtica de quién soy, ha sido un motor transformador en mi carrera. Ser una mujer transgénero me ha permitido desarrollar habilidades únicas como la empatía, la resiliencia y la adaptabilidad, cualidades que aplico diariamente en mi trabajo. Esta perspectiva me ha hecho más receptiva a las necesidades de los demás, más abierta al cambio y más determinada a enfrentar retos con creatividad y determinación. :musical_note:</h3>
 
 <p align="center">Mis conocimientos de Diseño y Desarrollo Web (Me falta agregar los de Marketing Digital)</p>
 
