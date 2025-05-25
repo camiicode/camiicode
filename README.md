@@ -24,6 +24,7 @@
   <img src="/assets/img/js.svg" width="50" height="50" alt="img-javascript" title="Javascript">
   <img src="/assets/img/node-js-min.png" width="50" height="50" alt="img-nodejs" title="nodejs">
   <img src="/assets/img/typescript.png" width="50" height="50" alt="img-typescript" title="typescript">
+  <img src="/assets/img/astro-logo.png" width="50" height="50" alt="img-astro" title="astro">
 </p>
 
 <p align="center">
