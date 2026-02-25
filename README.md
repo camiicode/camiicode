@@ -115,7 +115,7 @@ A veces hago **streams en Twitch** cuando estoy programando algo interesante. No
 - 💬 **Consultoría técnica** para tu proyecto
 
 ### **He trabajado con:**
-- **Pequeñas y medianas empresas** (20+ clientes satisfechos)
+- **Pequeñas y medianas empresas** (80+ clientes satisfechos)
 - **Startups** que necesitan MVP rápidos
 - **Profesionales** que quieren automatizar procesos
 
