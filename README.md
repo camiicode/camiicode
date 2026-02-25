@@ -18,7 +18,7 @@ Soy una **desarrolladora apasionada** y **mujer transgénero** que encuentra en 
 - **🎨 Creatividad** que fusiona lógica y diseño
 - **🔄 Adaptabilidad** en un mundo tech en constante cambio
 
-Actualmente me enfoco en **desarrollo con Python y Odoo**, mientras exploro **Godot para juegos** y **Lua para scripting**. Siempre aprendiendo algo nuevo.
+Actualmente me enfoco en **desarrollo con Javascript, Typescript, Python y Odoo y Astro**, mientras exploro **Godot para juegos** y **Lua para scripting**. Siempre aprendiendo algo nuevo.
 
 ---
 
