@@ -25,14 +25,14 @@ Hoy combino más de 8 años de experiencia en desarrollo web y e-commerce con la
 ## 🚀 Lo que construyo actualmente (2026)
 
 ### **🤖 Ingeniería de IA & Automatización**
-- **Sistemas Multiagente y Orquestación:** Diseño de pipelines híbridos combinando agentes autónomos (*tool calling*), reglas deterministas y validación humana mediante **Claude Code, OpenAI/Codex, OpenRouter y DeepSeek entre otras**.
+- **Sistemas Multiagente y Orquestación:** Diseño de pipelines híbridos combinando agentes autónomos (*tool calling*), reglas deterministas y validación humana mediante **Claude Code, OpenAI/Codex, OpenRouter, DeepSeek, OpenCode, entre otros**.
 - **Integraciones y Flujos en Producción:** Automatización operativa conectando APIs, webhooks, **Python, TypeScript, n8n y Make**, con control de errores, *fallbacks* entre modelos y monitoreo de costos.
-- **Chatbots y Agentes de AI Empresariales:** Desarrollo de asistentes inteligentes conectados a ERPs y bases de datos (como integraciones **ERP** o  **CMS**).
+- **Chatbots y Agentes de AI Empresariales:** Desarrollo de asistentes inteligentes conectados a ERPs y bases de datos (como integraciones **ERP** y **CMS**).
 
 ### **💻 Desarrollo Full-Stack & Producto**
-- **Aplicaciones Web Modernas:** Desarrollo con **TypeScript, Astro, React, Tailwind CSS, PostgreSQL y Supabase**.
+- **Aplicaciones Web Modernas:** Desarrollo con **TypeScript, Astro, React, Tailwind CSS, SCSS, PostgreSQL y Supabase**.
 - **Calidad y Confiabilidad:** Implementación de suites de pruebas automatizadas unitarias y E2E (**Vitest, Playwright**) y flujos de CI/CD.
-- **Consultoría y E-Commerce:** Más de 8 años entregando soluciones a medida, tiendas y módulos empresariales en **Odoo** y **VTEX**. He trabajado para más de 80 clientes y empresas a lo largo de mi carrera profesional.
+- **Consultoría y E-Commerce:** Más de 8 años entregando soluciones a medida, tiendas y módulos empresariales en **Odoo**, **VTEX**, **SquareSpace**, **Wordpress** entre otras, para más de 80 clientes y empresas a lo largo de mi carrera profesional.
 
 ---
 
@@ -53,37 +53,43 @@ Aplicación web de notas **offline-first** enfocada en velocidad extrema y priva
 ## 🛠️ Stack Técnico
 
 ### **🤖 IA, Agentes & Automatización**
-![OpenAI](https://shields.io)
-![Claude Code](https://shields.io)
-![OpenRouter](https://shields.io)
-![DeepSeek](https://shields.io)
-![n8n](https://shields.io)
-![Make](https://shields.io)
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?logo=openrouter&logoColor=fff)
+![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
+![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 
-### **💻 Lenguajes & Backend**
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![Node.js](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Supabase](https://shields.io)
+### **💻 Lenguajes Backend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 ### **🌐 Frontend, UI/UX & Testing**
-![Astro](https://shields.io)
-![React](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Playwright](https://shields.io)
-![Figma](https://shields.io)
-![Adobe Creative Suite](https://shields.io)
-
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
 
 ### **🏢 Plataformas, DevOps & Otros**
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
 
 ---
 
@@ -91,8 +97,7 @@ Aplicación web de notas **offline-first** enfocada en velocidad extrema y priva
 
 Comparto procesos reales de desarrollo, arquitectura con IA y resolución de problemas técnicos en vivo a través de mi canal de Twitch, donde más de **100 seguidores** se suman a aprender y construir juntos.
 
-[![Twitch](https://shields.io)](https://www.twitch.tv/c4mii_c)
-[![YouTube](https://shields.io)](https://www.youtube.com/@camiicode)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/c4mii_c)
 
 ---
 
@@ -110,10 +115,10 @@ Basada actualmente en **Medellín, Colombia**, estoy **abierta a oportunidades f
 
 **Mi filosofía:** *Código limpio, arquitectura pragmática, comunicación directa y entregas confiables.*
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/camila-fernanda-torres-parra-4106bb220/)
-[![Email](https://shields.io)](mailto:dftp93@gmail.com)
-[![Portfolio](https://shields.io)](https://camiicode.github.io/portfolio/)
-[![WhatsApp](https://shields.io)](https://wa.link/912dj8)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/camila-fernanda-torres-parra-4106bb220/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dftp93@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.link/912dj8)
 
 ---
 
@@ -121,7 +126,8 @@ Basada actualmente en **Medellín, Colombia**, estoy **abierta a oportunidades f
   <i>"Cada línea de código es una oportunidad para crear, resolver y mejorar."</i>
 </p>
 
-<p align="center">
+<p align="center" valign="center">
   <img src="https://komarev.com/ghpvc/?username=camiicode&label=Profile%20views&color=FF69B4&style=flat" alt="camiicode" />
-  <img src="https://shields.io" alt="Open to Work 2026" />
 </p>
+
+<p align="center">Open To Work</p>
